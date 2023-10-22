@@ -1,8 +1,8 @@
 # caspex_walmart
 
 # command  for run 
-```1. tsc groupEvent.ts 
- 2. node groupEvent.js ```
+```1. tsc groupEvent.ts``` 
+```2. node groupEvent.js```
 
 # output 
 ```{
